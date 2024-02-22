@@ -35,11 +35,6 @@
                     <version>5.7.2</version>
                     <scope>test</scope>
                 </dependency>
-                <dependency>
-                    <groupId>org.jenkins-ci.main</groupId>
-                    <artifactId>jenkins-core</artifactId>
-                    <version>2.346.1</version>
-                </dependency>
             </dependencies>
         </profile>
         <profile>
@@ -54,11 +49,6 @@
                     <artifactId>junit-jupiter-api</artifactId>
                     <version>5.7.2</version>
                     <scope>test</scope>
-                </dependency>
-                <dependency>
-                    <groupId>org.jenkins-ci.main</groupId>
-                    <artifactId>jenkins-core</artifactId>
-                    <version>2.361.1</version>
                 </dependency>
             </dependencies>
         </profile>
@@ -75,11 +65,6 @@
                     <version>5.7.2</version>
                     <scope>test</scope>
                 </dependency>
-                <dependency>
-                    <groupId>org.jenkins-ci.main</groupId>
-                    <artifactId>jenkins-core</artifactId>
-                    <version>2.277.1</version>
-                </dependency>
             </dependencies>
         </profile>
         <profile>
@@ -94,11 +79,6 @@
                     <artifactId>junit-jupiter-api</artifactId>
                     <version>5.7.2</version>
                     <scope>test</scope>
-                </dependency>
-                <dependency>
-                    <groupId>org.jenkins-ci.main</groupId>
-                    <artifactId>jenkins-core</artifactId>
-                    <version>2.357</version>
                 </dependency>
             </dependencies>
         </profile>
